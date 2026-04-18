@@ -6,17 +6,17 @@
   "config_category": "acquisition",
   "config_description": "--Defensible Leaders-- \nTop 50 ranked high-volume restaurants. \n\nEach venue with massive review volume. The safest bets. \n\nUses State Rank to find the absolute biggest players.",
   "config_name": "Top 50 Restaurant Category Dominators in Oregon, US",
-  "export_job_id": "f7ed4b20-b87e-4923-b927-274fda08fc5b",
+  "export_job_id": "9d574f5a-a2eb-4218-b113-02df536b0279",
   "github_org": "Beamstation-Datasets",
   "id_short": 439588,
   "location_name": "Oregon",
   "location_type": "state",
   "repo_name": "top-50-restaurant-category-dominators-in-oregon-us-sample-439588",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/439588/beamstation_439588_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_pct": 8.89,
+  "sample_pct": 10.0,
   "sample_records": 4,
   "sample_sha256": "3bbee187a173d7f46ec4df7acb9cfea4844a3d98a82befbbbb8b0617a494cf3f",
   "sample_size_bytes": 32440,
-  "total_records": 45,
-  "updated_at": "2026-04-01T00:22:26.729606+00:00"
+  "total_records": 40,
+  "updated_at": "2026-04-15T02:04:33.122273+00:00"
 }
