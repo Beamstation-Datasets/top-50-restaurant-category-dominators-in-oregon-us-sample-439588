@@ -1,6 +1,6 @@
 # Top 50 Restaurant Category Dominators in Oregon, US
 
-> Free BeamStation sample export with 4 rows and masked direct-contact fields.
+> Free BeamStation sample export with 7 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `439588` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 40 records |
-| Free sample size | 4 records (10.0%) |
-| Last export | 2026-04-15T02:04:33.122273+00:00 |
+| Full dataset size | 78 records |
+| Free sample size | 7 records (8.97%) |
+| Last export | 2026-04-22T06:54:49.688251+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-50-restaurant-category-dominators-in-oregon-us-sample-439588/releases/download/sample-latest/beamstation_439588_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
