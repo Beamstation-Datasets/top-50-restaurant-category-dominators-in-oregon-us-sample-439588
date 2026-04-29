@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5176c799-ea3b-4973-93e1-c009ae85b512",
+  "export_job_id": "74205856-e959-4f04-9724-998f60c98802",
   "id_short": 439588,
-  "published_at": "2026-04-22T07:30:38Z",
+  "published_at": "2026-04-29T19:08:23Z",
   "repo_name": "top-50-restaurant-category-dominators-in-oregon-us-sample-439588",
   "sample_asset_name": "beamstation_439588_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/439588/beamstation_439588_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "2322d93da02a4810a51c975ba59755e5a5e06b82e8a5bc733b49c57dc090aaad",
-  "sample_size_bytes": 45069,
-  "total_records": 78
+  "sample_records": 5,
+  "sample_sha256": "452eb19ff745849eb85fdcaadeea256cc87e506736da59e9fa4f49a253844167",
+  "sample_size_bytes": 34670,
+  "total_records": 51
 }
